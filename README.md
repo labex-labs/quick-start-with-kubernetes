@@ -9,8 +9,8 @@ This course is designed to teach you about managing application containers, usin
 
 ## Scenarios
 
-|   Index | Name                                               | Difficulty   | URL                                                                       |
-|---------|----------------------------------------------------|--------------|---------------------------------------------------------------------------|
+|   Index | Name                                              | Difficulty   | URL                                                                       |
+|---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |      01 | 📖 Your First Kubernetes Lab                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92733'>Start Lab</a>       |
 |      02 | 📖 Display Cluster Info                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8426'>Start Lab</a>        |
 |      03 | 📖 Examine Nodes with Kubectl                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/9790'>Start Lab</a>        |
