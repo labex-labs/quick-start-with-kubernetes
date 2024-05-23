@@ -9,7 +9,7 @@ This course is designed to teach you about managing application containers, usin
 
 ## Scenarios
 
-|   Index | Name                                              | Difficulty   | URL                                                                       |
+|   Index | Name                                              | Difficulty   | Practice                                                                  |
 |---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |      01 | 📖 Your First Kubernetes Lab                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92733'>Start Lab</a>       |
 |      02 | 📖 Display Cluster Info                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8426'>Start Lab</a>        |
@@ -27,4 +27,9 @@ This course is designed to teach you about managing application containers, usin
 |      14 | 🎯 Configuring Apps with Configmaps                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18463'>Start Challenge</a> |
 |      15 | 📖 Storing Application Data with Persistentvolumes | ★★☆          | <a target='_blank' href='https://labex.io/labs/9685'>Start Lab</a>        |
 |      16 | 🎯 Deploy and Manage Kubernetes Dashboard          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/23734'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
 
