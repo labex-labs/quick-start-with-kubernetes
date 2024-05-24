@@ -1,6 +1,6 @@
 # Quick Start with Kubernetes
 
-![Quick Start with Kubernetes](https://cover-creator.labex.io/quick-start-with-kubernetes.png)
+![Quick Start with Kubernetes](https://cover-creator.appbot.io/quick-start-with-kubernetes.png)
 
 This course is designed to teach you about managing application containers, using Kubernetes. You’ll learn how Kubernetes works and how to use it to deploy and manage applications. 
 
