@@ -30,7 +30,7 @@ This course is designed to teach you about managing application containers, usin
 
 ## More
 
-- 🔗 [Kubernetes Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Kubernetes Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- 🔗 [DevOps Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [DevOps Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
 
