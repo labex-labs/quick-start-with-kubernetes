@@ -1,6 +1,6 @@
 # Quick Start with Kubernetes
 
-[![Quick Start with Kubernetes](https://cover-creator.appbot.io/quick-start-with-kubernetes.png)](https://labex.io/courses/quick-start-with-kubernetes)
+[![Quick Start with Kubernetes](https://cover-creator.labex.io/quick-start-with-kubernetes.png)](https://labex.io/courses/quick-start-with-kubernetes)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-kubernetes)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,12 +25,12 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                        | Difficulty   | Practice                                                                                                                        |
-|---------|---------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Explore the Kubernetes Cluster            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/kubernetes-explore-the-kubernetes-cluster-434519'>Start Lab</a>             |
+|   Index | Name                                         | Difficulty   | Practice                                                                                                                        |
+|---------|----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Explore the Kubernetes Cluster            | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/kubernetes-explore-the-kubernetes-cluster-434519'>Start Lab</a>             |
 |      02 | 🎯 Check Kubernetes Status                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/kubernetes-check-kubernetes-status-434775'>Start Challenge</a>                   |
 |      03 | 📖 Deploy Applications on Kubernetes         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/kubernetes-deploy-applications-on-kubernetes-434644'>Start Lab</a>          |
-|      04 | 🎯 Launch Your First Kubernetes Pod          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/kubernetes-launch-your-first-kubernetes-pod-434769'>Start Challenge</a>          |
+|      04 | 🎯 Launch Your First Kubernetes Pod          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/kubernetes-launch-your-first-kubernetes-pod-434769'>Start Challenge</a>     |
 |      05 | 📖 Explore and Debug Kubernetes Applications | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/kubernetes-explore-and-debug-kubernetes-applications-434645'>Start Lab</a>  |
 |      06 | 🎯 Troubleshoot Kubernetes Nginx Deployment  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/kubernetes-troubleshoot-kubernetes-nginx-deployment-434782'>Start Challenge</a>  |
 |      07 | 📖 Expose Kubernetes Applications            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/kubernetes-expose-kubernetes-applications-434647'>Start Lab</a>             |
@@ -38,7 +38,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      09 | 📖 Scale and Load Balance Applications       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/kubernetes-scale-and-load-balance-applications-434648'>Start Lab</a>        |
 |      10 | 🎯 Scale NGINX Deployment to Six Replicas    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/kubernetes-scale-nginx-deployment-to-six-replicas-434818'>Start Challenge</a>    |
 |      11 | 📖 Update and Rollback Applications          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/kubernetes-update-and-rollback-applications-434649'>Start Lab</a>           |
-|      12 | 🎯 Deploy and Update NGINX Microservice      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/kubernetes-deploy-and-update-nginx-microservice-434821'>Start Challenge</a>      |
+|      12 | 🎯 Deploy and Update NGINX Microservice      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/kubernetes-deploy-and-update-nginx-microservice-434821'>Start Challenge</a> |
 
 ## More
 
