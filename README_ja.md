@@ -31,22 +31,22 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                                       | 難易度   | 練習                                                                                                                                |
 |----------------|------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 Kubernetes クラスタを探索する                           | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-explore-the-kubernetes-cluster-434519'>ラボを開始</a>             |
-|             02 | 🎯 Kubernetes の状態を確認する                             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/kubernetes-check-kubernetes-status-434775'>チャレンジを開始</a>                   |
-|             03 | 📖 Kubernetes 上でアプリケーションをデプロイする           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-deploy-applications-on-kubernetes-434644'>ラボを開始</a>          |
-|             04 | 🎯 初めての Kubernetes Pod を起動する                      | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-launch-your-first-kubernetes-pod-434769'>チャレンジを開始</a>     |
-|             05 | 📖 Kubernetes アプリケーションを探索してデバッグする       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-explore-and-debug-kubernetes-applications-434645'>ラボを開始</a>  |
-|             06 | 🎯 Kubernetes Nginx デプロイメントのトラブルシューティング | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/kubernetes-troubleshoot-kubernetes-nginx-deployment-434782'>チャレンジを開始</a>  |
-|             07 | 📖 Kubernetes アプリケーションを公開する                   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-expose-kubernetes-applications-434647'>ラボを開始</a>             |
-|             08 | 🎯 Kubernetes Web サービスのデプロイと公開                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/kubernetes-deploy-and-expose-kubernetes-web-services-434804'>チャレンジを開始</a> |
-|             09 | 📖 アプリケーションのスケーリングと負荷分散                | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-scale-and-load-balance-applications-434648'>ラボを開始</a>        |
-|             10 | 🎯 NGINX デプロイメントを 6 つのレプリカにスケーリングする | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/kubernetes-scale-nginx-deployment-to-six-replicas-434818'>チャレンジを開始</a>    |
-|             11 | 📖 アプリケーションの更新とロールバック                    | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-update-and-rollback-applications-434649'>ラボを開始</a>           |
-|             12 | 🎯 NGINX マイクロサービスのデプロイと更新                  | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-deploy-and-update-nginx-microservice-434821'>チャレンジを開始</a> |
+|             01 | 📖 Kubernetes クラスタを探索する                           | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-explore-the-kubernetes-cluster-434519'>ラボを開始</a>             |
+|             02 | 🎯 Kubernetes の状態を確認する                             | 初級     | <a target='_blank' href='https://labex.io/ja/labs/kubernetes-check-kubernetes-status-434775'>チャレンジを開始</a>                   |
+|             03 | 📖 Kubernetes 上でアプリケーションをデプロイする           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-deploy-applications-on-kubernetes-434644'>ラボを開始</a>          |
+|             04 | 🎯 初めての Kubernetes Pod を起動する                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-launch-your-first-kubernetes-pod-434769'>チャレンジを開始</a>     |
+|             05 | 📖 Kubernetes アプリケーションを探索してデバッグする       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-explore-and-debug-kubernetes-applications-434645'>ラボを開始</a>  |
+|             06 | 🎯 Kubernetes Nginx デプロイメントのトラブルシューティング | 初級     | <a target='_blank' href='https://labex.io/ja/labs/kubernetes-troubleshoot-kubernetes-nginx-deployment-434782'>チャレンジを開始</a>  |
+|             07 | 📖 Kubernetes アプリケーションを公開する                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-expose-kubernetes-applications-434647'>ラボを開始</a>             |
+|             08 | 🎯 Kubernetes Web サービスのデプロイと公開                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/kubernetes-deploy-and-expose-kubernetes-web-services-434804'>チャレンジを開始</a> |
+|             09 | 📖 アプリケーションのスケーリングと負荷分散                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-scale-and-load-balance-applications-434648'>ラボを開始</a>        |
+|             10 | 🎯 NGINX デプロイメントを 6 つのレプリカにスケーリングする | 初級     | <a target='_blank' href='https://labex.io/ja/labs/kubernetes-scale-nginx-deployment-to-six-replicas-434818'>チャレンジを開始</a>    |
+|             11 | 📖 アプリケーションの更新とロールバック                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-update-and-rollback-applications-434649'>ラボを開始</a>           |
+|             12 | 🎯 NGINX マイクロサービスのデプロイと更新                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/kubernetes-deploy-and-update-nginx-microservice-434821'>チャレンジを開始</a> |
 
 ## その他
 
-- 🔗 [Kubernetes Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Kubernetes Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- 🔗 [Kubernetes プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kubernetes プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Kubernetes 無料チュートリアル](https://github.com/labex-labs/kubernetes-free-tutorials)
 
