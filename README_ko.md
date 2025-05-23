@@ -31,22 +31,22 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                      | 난이도   | 연습                                                                                                                              |
 |----------|-------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Kubernetes 클러스터 탐색               | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-explore-the-kubernetes-cluster-434519'>실습 시작</a>            |
-|       02 | 🎯 Kubernetes 상태 확인                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/kubernetes-check-kubernetes-status-434775'>도전 시작</a>                        |
-|       03 | 📖 Kubernetes 에 애플리케이션 배포하기    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-deploy-applications-on-kubernetes-434644'>실습 시작</a>         |
-|       04 | 🎯 첫 번째 Kubernetes Pod 배포하기        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-launch-your-first-kubernetes-pod-434769'>도전 시작</a>          |
-|       05 | 📖 Kubernetes 애플리케이션 탐색 및 디버깅 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-explore-and-debug-kubernetes-applications-434645'>실습 시작</a> |
-|       06 | 🎯 Kubernetes Nginx 배포 문제 해결        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/kubernetes-troubleshoot-kubernetes-nginx-deployment-434782'>도전 시작</a>       |
-|       07 | 📖 Kubernetes 애플리케이션 노출하기       | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-expose-kubernetes-applications-434647'>실습 시작</a>            |
-|       08 | 🎯 Kubernetes 웹 서비스 배포 및 노출      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/kubernetes-deploy-and-expose-kubernetes-web-services-434804'>도전 시작</a>      |
-|       09 | 📖 애플리케이션 스케일링 및 로드 밸런싱   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-scale-and-load-balance-applications-434648'>실습 시작</a>       |
-|       10 | 🎯 NGINX 배포를 6 개 레플리카로 스케일링  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/kubernetes-scale-nginx-deployment-to-six-replicas-434818'>도전 시작</a>         |
-|       11 | 📖 애플리케이션 업데이트 및 롤백          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-update-and-rollback-applications-434649'>실습 시작</a>          |
-|       12 | 🎯 NGINX 마이크로서비스 배포 및 업데이트  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-deploy-and-update-nginx-microservice-434821'>도전 시작</a>      |
+|       01 | 📖 Kubernetes 클러스터 탐색               | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-explore-the-kubernetes-cluster-434519'>실습 시작</a>            |
+|       02 | 🎯 Kubernetes 상태 확인                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/kubernetes-check-kubernetes-status-434775'>도전 시작</a>                        |
+|       03 | 📖 Kubernetes 에 애플리케이션 배포하기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-deploy-applications-on-kubernetes-434644'>실습 시작</a>         |
+|       04 | 🎯 첫 번째 Kubernetes Pod 배포하기        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-launch-your-first-kubernetes-pod-434769'>도전 시작</a>          |
+|       05 | 📖 Kubernetes 애플리케이션 탐색 및 디버깅 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-explore-and-debug-kubernetes-applications-434645'>실습 시작</a> |
+|       06 | 🎯 Kubernetes Nginx 배포 문제 해결        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/kubernetes-troubleshoot-kubernetes-nginx-deployment-434782'>도전 시작</a>       |
+|       07 | 📖 Kubernetes 애플리케이션 노출하기       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-expose-kubernetes-applications-434647'>실습 시작</a>            |
+|       08 | 🎯 Kubernetes 웹 서비스 배포 및 노출      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/kubernetes-deploy-and-expose-kubernetes-web-services-434804'>도전 시작</a>      |
+|       09 | 📖 애플리케이션 스케일링 및 로드 밸런싱   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-scale-and-load-balance-applications-434648'>실습 시작</a>       |
+|       10 | 🎯 NGINX 배포를 6 개 레플리카로 스케일링  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/kubernetes-scale-nginx-deployment-to-six-replicas-434818'>도전 시작</a>         |
+|       11 | 📖 애플리케이션 업데이트 및 롤백          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-update-and-rollback-applications-434649'>실습 시작</a>          |
+|       12 | 🎯 NGINX 마이크로서비스 배포 및 업데이트  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/kubernetes-deploy-and-update-nginx-microservice-434821'>도전 시작</a>      |
 
 ## 더 보기
 
-- 🔗 [Kubernetes Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Kubernetes Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- 🔗 [Kubernetes 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kubernetes 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Kubernetes 무료 튜토리얼](https://github.com/labex-labs/kubernetes-free-tutorials)
 
