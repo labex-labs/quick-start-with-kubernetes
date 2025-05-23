@@ -31,22 +31,22 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                                    |
 |----------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Explora el clúster de Kubernetes                      | ★★☆          | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-explore-the-kubernetes-cluster-434519'>Iniciar Laboratorio</a>            |
-|       02 | 🎯 Verificar el estado de Kubernetes                     | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/kubernetes-check-kubernetes-status-434775'>Iniciar Desafío</a>                            |
-|       03 | 📖 Desplegar aplicaciones en Kubernetes                  | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-deploy-applications-on-kubernetes-434644'>Iniciar Laboratorio</a>         |
-|       04 | 🎯 Lanza tu Primer Pod de Kubernetes                     | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-launch-your-first-kubernetes-pod-434769'>Iniciar Desafío</a>              |
-|       05 | 📖 Explorar y depurar aplicaciones de Kubernetes         | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-explore-and-debug-kubernetes-applications-434645'>Iniciar Laboratorio</a> |
-|       06 | 🎯 Solucionar problemas en la implementación de Nginx... | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/kubernetes-troubleshoot-kubernetes-nginx-deployment-434782'>Iniciar Desafío</a>           |
-|       07 | 📖 Exponer aplicaciones de Kubernetes                    | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-expose-kubernetes-applications-434647'>Iniciar Laboratorio</a>            |
-|       08 | 🎯 Desplegar y exponer servicios web de Kubernetes       | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/kubernetes-deploy-and-expose-kubernetes-web-services-434804'>Iniciar Desafío</a>          |
-|       09 | 📖 Escalar y equilibrar la carga de aplicaciones         | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-scale-and-load-balance-applications-434648'>Iniciar Laboratorio</a>       |
-|       10 | 🎯 Escalar la implementación (deployment) de NGINX a ... | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/kubernetes-scale-nginx-deployment-to-six-replicas-434818'>Iniciar Desafío</a>             |
-|       11 | 📖 Actualizar y revertir aplicaciones                    | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-update-and-rollback-applications-434649'>Iniciar Laboratorio</a>          |
-|       12 | 🎯 Desplegar y actualizar el microservicio de NGINX      | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-deploy-and-update-nginx-microservice-434821'>Iniciar Desafío</a>          |
+|       01 | 📖 Explora el clúster de Kubernetes                      | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-explore-the-kubernetes-cluster-434519'>Iniciar Laboratorio</a>            |
+|       02 | 🎯 Verificar el estado de Kubernetes                     | Principiante | <a target='_blank' href='https://labex.io/es/labs/kubernetes-check-kubernetes-status-434775'>Iniciar Desafío</a>                            |
+|       03 | 📖 Desplegar aplicaciones en Kubernetes                  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-deploy-applications-on-kubernetes-434644'>Iniciar Laboratorio</a>         |
+|       04 | 🎯 Lanza tu Primer Pod de Kubernetes                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-launch-your-first-kubernetes-pod-434769'>Iniciar Desafío</a>              |
+|       05 | 📖 Explorar y depurar aplicaciones de Kubernetes         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-explore-and-debug-kubernetes-applications-434645'>Iniciar Laboratorio</a> |
+|       06 | 🎯 Solucionar problemas en la implementación de Nginx... | Principiante | <a target='_blank' href='https://labex.io/es/labs/kubernetes-troubleshoot-kubernetes-nginx-deployment-434782'>Iniciar Desafío</a>           |
+|       07 | 📖 Exponer aplicaciones de Kubernetes                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-expose-kubernetes-applications-434647'>Iniciar Laboratorio</a>            |
+|       08 | 🎯 Desplegar y exponer servicios web de Kubernetes       | Principiante | <a target='_blank' href='https://labex.io/es/labs/kubernetes-deploy-and-expose-kubernetes-web-services-434804'>Iniciar Desafío</a>          |
+|       09 | 📖 Escalar y equilibrar la carga de aplicaciones         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-scale-and-load-balance-applications-434648'>Iniciar Laboratorio</a>       |
+|       10 | 🎯 Escalar la implementación (deployment) de NGINX a ... | Principiante | <a target='_blank' href='https://labex.io/es/labs/kubernetes-scale-nginx-deployment-to-six-replicas-434818'>Iniciar Desafío</a>             |
+|       11 | 📖 Actualizar y revertir aplicaciones                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-update-and-rollback-applications-434649'>Iniciar Laboratorio</a>          |
+|       12 | 🎯 Desplegar y actualizar el microservicio de NGINX      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/kubernetes-deploy-and-update-nginx-microservice-434821'>Iniciar Desafío</a>          |
 
 ## Más
 
-- 🔗 [Kubernetes Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Kubernetes Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- 🔗 [Kubernetes Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kubernetes Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Kubernetes Tutoriales Gratuitos](https://github.com/labex-labs/kubernetes-free-tutorials)
 
